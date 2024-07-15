@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Homemade Cards by Barbara</title>
     <style>
+        @font-face {
+            font-family: 'HandWriter';
+            src: url('fonts/HandWriter.ttf') format('truetype');
+        }
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
@@ -15,7 +19,7 @@
             align-items: center;
         }
         header {
-            background-color: #FFDA03; /* Sunflower yellow */
+            background-image: url('pictures/wallpaper2.jpg');
             color: black;
             padding: 10px;
             text-align: center;
@@ -23,6 +27,10 @@
             position: fixed;
             top: 0;
             z-index: 1000;
+            font-family: 'HandWriter', Arial, sans-serif;
+        }
+        header h3 {
+            font-size: 1.5rem;
         }
         nav {
             width: 100%;
@@ -48,8 +56,11 @@
         main {
             margin: 20px;
             margin-top: 160px; /* Adjust this if the header and nav height changes */
-            width: 80%;
-            max-width: 1200px;
+            width: 100%;
+            max-width: 100%;
+            background-image: url('pictures/wallpaper1.jpg');
+            background-size: cover;
+            background-position: center;
         }
         .card-type {
             margin-bottom: 30px;
@@ -64,7 +75,7 @@
         .card {
             margin: 10px;
             border: 1px solid #ddd;
-            border-radius: 4px;
+            border-radius: 10px;
             background-color: white;
             box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
             width: calc(33% - 40px);
@@ -79,7 +90,7 @@
             text-align: center;
         }
         footer {
-            background-color: #FFDA03; /* sunflower yellow */
+            background-image: url('pictures/wallpaper2.jpg');
             color: black;
             padding: 10px;
             text-align: center;
