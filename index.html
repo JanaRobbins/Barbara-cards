@@ -11,7 +11,7 @@
         }
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: #d1bea8;
             margin: 0;
             padding: 0;
             display: flex;
@@ -53,14 +53,15 @@
             background-color: #ddd;
             color: black;
         }
-         main {
+		main {
             margin: 20px;
             margin-top: 160px; /* Adjust this if the header and nav height changes */
-            width: 80%;
+            margin-left: 40px; /* This moves the main content to the right */
+            width: calc(80% - 40px); /* Adjusting width to account for the added margin */
             max-width: 1200px;
-            background-image: url('pictures/wallpaper1.jpg');
-            background-size: cover;
-            background-position: center;
+            background-color: #d1bea8; /* Light beige color */
+            padding: 20px; /* Adding padding for better content display */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adding a slight shadow for better visual separation */
         }
         .card-type {
             margin-bottom: 30px;
