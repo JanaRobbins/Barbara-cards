@@ -15,7 +15,7 @@
             align-items: center;
         }
         header {
-            background-color: #FFDA03; /* Sunflower yellow */
+            background-color: #000000; /* Black */
             color: white;
             padding: 20px;
             text-align: center;
@@ -29,6 +29,9 @@
             background-color: #333;
             overflow: hidden;
             margin-top: 80px; /* Adjust this if the header height changes */
+            position: fixed;
+            top: 80px; /* Adjust this if the header height changes */
+            z-index: 1000;
         }
         nav a {
             float: left;
@@ -44,7 +47,7 @@
         }
         main {
             margin: 20px;
-            margin-top: 40px;
+            margin-top: 160px; /* Adjust this if the header and nav height changes */
             width: 80%;
             max-width: 1200px;
         }
@@ -76,7 +79,7 @@
             text-align: center;
         }
         footer {
-            background-color: #FFDA03; /* Sunflower yellow */
+            background-color: #000000; /* Black */
             color: white;
             padding: 10px;
             text-align: center;
