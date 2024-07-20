@@ -10,4 +10,4 @@ Her cards are not just pieces of paper; they are expressions of love and care. W
 Each card is a unique work of art, reflecting Barbara's personal touch and dedication to making every occasion special. They are more than just greetings; they are tokens of affection, carefully crafted to bring joy and comfort to those who receive them.
 
 
-If you love Barbara's work and would like to get in touch, please contact her at homemadecards.barbara@gmail.com
+If you love [Barbara's work](https://janarobbins.github.io/Barbara-cards/) and would like to get in touch, please contact her at homemadecards.barbara@gmail.com
