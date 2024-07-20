@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/JanaRobbins/Barbara-cards?style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/JanaRobbins/Barbara-cards?style=plastic) ![GitHub watchers](https://img.shields.io/github/watchers/JanaRobbins/Barbara-cards?style=plastic) ![GitHub repo directory count](https://img.shields.io/github/directory-file-count/JanaRobbins/Barbara-cards?style=plastic) ![](https://komarev.com/ghpvc/?username=JanaRobbins&style=plastic&label=Profile+views&color=ff69b4)
 
-# **Barbara**
+# **Barbara's Homemade Cards Website**
 ## [**Homemade Cards**](https://janarobbins.github.io/Barbara-cards/)
  
 Barbara's homemade cards are a blend of creativity and heartfelt sentiment. Each card is meticulously crafted, showcasing her artistic flair and attention to detail. Using a variety of materials such as textured papers, delicate ribbons, and intricate embellishments, Barbara creates designs that are both elegant and charming.
